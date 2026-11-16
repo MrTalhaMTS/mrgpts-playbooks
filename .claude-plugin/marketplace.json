@@ -1,0 +1,7 @@
+{
+  "name": "mrgpts-playbooks",
+  "owner": { "name": "Muhammad Talha", "url": "https://mrgpts.com/about" },
+  "plugins": [
+    { "name": "mrgpts-playbooks", "source": "./", "description": "Twelve task playbooks from MrGPTs as Claude skills." }
+  ]
+}

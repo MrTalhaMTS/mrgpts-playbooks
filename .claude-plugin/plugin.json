@@ -1,0 +1,25 @@
+{
+  "name": "mrgpts-playbooks",
+  "displayName": "MrGPTs Playbooks",
+  "version": "1.0.0",
+  "description": "Twelve task playbooks from MrGPTs custom GPTs (SEO articles, resumes, coding, maths, translation, copywriting, editing, research, image prompts, security learning and planning) as Claude skills.",
+  "author": {
+    "name": "Muhammad Talha",
+    "url": "https://mrgpts.com/about"
+  },
+  "homepage": "https://mrgpts.com/guides/gpt-prompts",
+  "repository": "https://github.com/MrTalhaMTS/mrgpts-playbooks",
+  "license": "MIT",
+  "keywords": [
+    "gpt",
+    "prompts",
+    "seo",
+    "resume",
+    "coding",
+    "translation",
+    "writing"
+  ],
+  "privacyPolicyUrl": "https://mrgpts.com/privacy",
+  "supportUrl": "https://mrgpts.com/about",
+  "icon": "./.claude-plugin/icon.png"
+}
